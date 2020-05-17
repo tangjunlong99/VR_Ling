@@ -1,5 +1,5 @@
 # VR_Ling
-[封面截图](Screenshots/VR_Ling.jpg)
+(VR_Ling.jpg)
 使用VR缓解疫情导致的不安焦虑的虚拟歌手-绫
 
 这是一个Oculus quest的VR应用 
